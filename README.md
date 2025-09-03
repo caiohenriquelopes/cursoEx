@@ -5,5 +5,7 @@
 <li>ultron</li>
 <li>thanos</li>
 <li>doutor destino</li>
+<li>
+Erik Killmonger</li>
 </ul>
 </div>
